@@ -11,7 +11,7 @@ que utilize noções de banco de dados, praticando controle de versão.
 
 <br />
 
-## Tema poposto
+## Tema proposto
 Tecnologia da informação como uma ferramenta de impacto social na redução da
 fome e insegurança alimentar.
 
@@ -53,6 +53,14 @@ Bootstrap
 Gurnicorn server
 NGINX Server
 ```
+### Ferramentas 
+```
+PyCharm
+Filezilla
+DB Browser para SQLite
+SSH
+```
+
 <br />
 
 ## Implantação
