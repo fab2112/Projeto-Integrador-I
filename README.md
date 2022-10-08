@@ -38,6 +38,7 @@ instituições de caridade.
 ### Arquitetura
 ```
 MTV - Model Template View
+Implantação monolítica
 ```
 
 ### Desenvolvimento
@@ -50,7 +51,7 @@ Bootstrap
 ```
 ### Servers 
 ```
-Gurnicorn server
+Gunicorn WSGI HTTP Server
 NGINX Server
 ```
 ### Ferramentas 
@@ -58,6 +59,7 @@ NGINX Server
 PyCharm
 Filezilla
 DB Browser para SQLite
+DB Designer
 SSH
 ```
 
@@ -65,7 +67,7 @@ SSH
 
 ## Implantação
 
-### Modelo de integração
+### Arquitetura de implantação - monolítica
 <br />
 <h3 align="center">
   <img src="img1.png" width="1000">
